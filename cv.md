@@ -58,3 +58,17 @@ console.log(myFn(12, 40));
 - Created branches, merged code, and resolved conflicts using Git, maintaining codebase integrity.
 
 ---
+
+#### EDUCATION
+
+##### COURSES
+
+- Completed courses in HTML, CSS, and JavaScript on CodeAcademy.
+- Completed a comprehensive graphic design course at CalArts, a renowned institution for arts and design education.
+
+---
+
+#### LANGUAGES
+
+- Russian (native)
+- English (B1-B2)
